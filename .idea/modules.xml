@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EstruturasDeRepeticao_ProfLoiane.iml" filepath="$PROJECT_DIR$/EstruturasDeRepeticao_ProfLoiane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex02/Ex02.iml" filepath="$PROJECT_DIR$/Ex02/Ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex03/Ex03.iml" filepath="$PROJECT_DIR$/Ex03/Ex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex04/Ex04.iml" filepath="$PROJECT_DIR$/Ex04/Ex04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex05/Ex05.iml" filepath="$PROJECT_DIR$/Ex05/Ex05.iml" />
+    </modules>
+  </component>
+</project>
